@@ -1,0 +1,16 @@
+{
+  "name": "06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_structures.js",
+  "scripts": {
+    "run": "node data_structures.js",
+    "prerun": "wat2wasm data_structures.wat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
